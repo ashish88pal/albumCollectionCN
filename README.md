@@ -21,6 +21,12 @@
   $ nodemon index.js or npm start
   ```
 
+## Screenshots
+  ![Screenshot 1](https://github.com/ashish88pal/albumCollectionCN/blob/c8f0c2dfa7a418a66583fb3a2ee1c68176bcaaf3/src/screenshots/ss1.png?raw=true)
+
+  ![Screenshot 2](https://github.com/ashish88pal/albumCollectionCN/blob/c8f0c2dfa7a418a66583fb3a2ee1c68176bcaaf3/src/screenshots/ss2.png?raw=true)
+
+![Screenshot 3](https://github.com/ashish88pal/albumCollectionCN/blob/c8f0c2dfa7a418a66583fb3a2ee1c68176bcaaf3/src/screenshots/ss3.png?raw=true)
 
 
 

@@ -27,7 +27,7 @@ function Home() {
 
         setTimeout(() => {
           setLoading(false);
-        }, 1500);
+        }, 1200);
       })
       .catch((e) => {
         console.log(e);
