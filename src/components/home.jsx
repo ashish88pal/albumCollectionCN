@@ -14,9 +14,10 @@ function Home() {
   const [albumData, setAlbumData] = useState([]);
 
   useEffect(() => {
+
     console.log("executed only once!");
     getAllAlbumData();
-  }, [""]);
+  }, []);
 
   const [isLoading, setLoading] = useState(true);
 
