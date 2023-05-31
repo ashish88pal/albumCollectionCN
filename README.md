@@ -1,7 +1,7 @@
 # Album-collection-app
 ## Description
   A Album collection web app that allows users to perform CRUD operations (Create, Read, Update, Delete) on  albums, such as adding new album, viewing albums, updating or editing albums, and deleting albums using given APIs. The project is built using a tech stack consisting of ReactJS. For styling , CSS is used.
-   Click [here](https://album-collection-react-cn.netlify.app/) to try.
+   Click [here](https://album-collection-react-cn.netlify.app/) to try. Video link is [here](https://youtu.be/4SJXJXTbYSQ)
 
 ## Tech stack
   ReactJS, CSS
